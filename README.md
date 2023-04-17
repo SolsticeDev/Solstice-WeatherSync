@@ -38,3 +38,11 @@ local TimeZoneDBAPIUrl = "http://api.timezonedb.com/v2.1/get-time-zone?key=" .. 
 install your api keys here
 
 if you need any help with this open a ticket in the discord https://discord.gg/6uUJvRukhD
+
+# Known Issues
+If you encounter any other bugs please join my discord and tell me
+I will be updating and maintaing this script
+
+-Sun and moon stuttering
+-time updates could look better
+-Self updating time so time doesnt update with every notification interval
