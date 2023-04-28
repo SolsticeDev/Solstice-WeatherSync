@@ -46,3 +46,4 @@ I will be updating and maintaing this script
 -Sun and moon stuttering
 -time updates could look better
 -Self updating time so time doesnt update with every notification interval
+-Weather api will sometimes produce an error when the server first starts
